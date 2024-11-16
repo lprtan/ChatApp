@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alperen Tan\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WepAPI\\wwwroot\\avatar\\570f9f13-1770-4aea-84cb-676f09fe5365.jpg",
+      "PackagePath": "staticwebassets\\avatar\\570f9f13-1770-4aea-84cb-676f09fe5365.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alperen Tan\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WepAPI\\wwwroot\\avatar\\5c72af4c-0a9f-434a-a421-f07c9275e6e5.jpg",
+      "PackagePath": "staticwebassets\\avatar\\5c72af4c-0a9f-434a-a421-f07c9275e6e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alperen Tan\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WepAPI\\wwwroot\\avatar\\928ebe14-4e0f-4305-9835-18b9b2d0b1b3.png",
+      "PackagePath": "staticwebassets\\avatar\\928ebe14-4e0f-4305-9835-18b9b2d0b1b3.png"
+    },
+    {
+      "Id": "C:\\Users\\Alperen Tan\\Desktop\\ChatApp\\ChatAppServer\\ChatAppServer.WepAPI\\wwwroot\\avatar\\d0665360-0a7d-47b9-ae00-12790503c42a.jpg",
+      "PackagePath": "staticwebassets\\avatar\\d0665360-0a7d-47b9-ae00-12790503c42a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatAppServer.WepAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatAppServer.WepAPI.props",
+      "PackagePath": "build\\ChatAppServer.WepAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAppServer.WepAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppServer.WepAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatAppServer.WepAPI.props",
+      "PackagePath": "buildTransitive\\ChatAppServer.WepAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
